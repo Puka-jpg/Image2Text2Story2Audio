@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+transformers
+google-generativeai
+requests
+gtts
+python-absl
