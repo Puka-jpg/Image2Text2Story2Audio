@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Generated files
+story_audio.mp3
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+instance/
+.webassets-cache
+
+app.py
+app2.py
+try.py
