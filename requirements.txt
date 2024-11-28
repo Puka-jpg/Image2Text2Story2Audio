@@ -5,7 +5,7 @@ transformers==4.37.2
 google-generativeai==0.3.2
 requests==2.31.0
 gtts==2.5.1
-python-absl==1.0.0
+absl-py==1.0.0
 torch==2.2.0
 Pillow==10.2.0
 numpy==1.26.4
